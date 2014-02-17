@@ -17,7 +17,7 @@ public class Conflict {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        String s = "khaled"; 
+        int s = 1; 
     }
     
 }
